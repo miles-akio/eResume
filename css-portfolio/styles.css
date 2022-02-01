@@ -47,7 +47,7 @@ h1 {
   line-height: 1;
 }
 h2 {
-  font-size: 45px;
+  font-size: 37px;
 }
 h1, h2 {
   font-family: 'Caveat', cursive;
@@ -124,9 +124,9 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/joanna-kosinska-unsplash.jpg);
+  background-image: url(../images/marina-vitale-unsplash.jpg);
   background-size: cover;
-  background-position: top right;
+  background-position: left;
   padding-bottom: 100px;
 }
 .education p {
