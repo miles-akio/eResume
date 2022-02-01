@@ -6,6 +6,13 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 #2F3061 - blue dark
 #FFE66D - yellow
 #A1C6D7 - blue light
+
+
+#29339B - Blue Pigment
+#A5243D - Vivid Burgundy
+#CCA43B - Satin Sheen Gold
+#EFF6EE - Mint Cream
+#E8FCC2 - Tea Green
 */
 
 
@@ -22,7 +29,7 @@ body {
   color: #343434;
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   font-size: 15px;
   line-height: 1.5;
 }
@@ -74,7 +81,7 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F3061;
+  background: #29339B;
   color: #F7FFF7;
 }
 
@@ -82,7 +89,7 @@ header {
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #F7FFF7;
+  background: #EFF6EE;
 }
 .projects a {
   color: #2F3061;
@@ -109,7 +116,7 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: #CCA43B;
 }
 
 
@@ -130,7 +137,7 @@ header {
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #343434;
+  background: #A5243D;
   color: #F7FFF7;
 }
 .contact-list {
